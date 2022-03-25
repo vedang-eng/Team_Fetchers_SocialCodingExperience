@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+#section1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    height: 600px;
+}
+.con{
+    width: 75%;
+    height: 486px;
+    /* background-color: aquamarine; */
+
+
+}
+.con{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+.con img{
+    height: 458px;
+    width: 444px;
+    margin-right: 23px;
+}
+.MyForms{
+    display: flex;
+    flex-direction: column;
+}
+.MyForms input{
+    display: block;
+    margin: 0px;
+    outline: none;
+    border: none;
+    
+    padding: 1px;
+    
+    width: 341px;
+    
+}
+.MyForms button{
+    width: 200px;
+    margin: auto;
+}
